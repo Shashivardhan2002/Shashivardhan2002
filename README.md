@@ -5,6 +5,6 @@
 <p align="center">Feel free to explore my projects and repositories.</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?theme=dark&user=saikanna123" alt="GitHub Streak" width="100%">
+  <img src="https://streak-stats.demolab.com/?theme=dark&user=Shashivardhan2002" alt="GitHub Streak" width="100%">
 </p>
 
